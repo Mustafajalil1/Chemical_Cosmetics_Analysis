@@ -3,9 +3,7 @@ this file contain the first project in python, using pandas library
 ## Analysis of chemical Hazards in Cosmetic Products Reported to the CSCP
 ---
 ## Project Overview
-This project analyzes data from the California Safe Cosmetics Program (CSCP), which tracks cosmetic products sold in California that contain potentially hazardous ingredients.
-The goal is to explore patterns in chemical usage, identify frequently reported harmful substances, assess reporting trends over time, and compare discontinued products with those that are still active.
-By using Python for data cleaning, analysis, and visualization, the project aims to provide meaningful insights that can help consumers, researchers, and regulators better understand the risks associated with cosmetic products.
+This project analyzes data from the California Safe Cosmetics Program (CSCP), which monitors cosmetic products sold in California that contain ingredients known or suspected to cause cancer, birth defects, or other reproductive harm. The primary objective is to uncover patterns in chemical usage, identify the most frequently reported hazardous substances, evaluate reporting trends over time, and compare discontinued products with those still on the market.
 
 ## Information about the dataset
 ### The dataset includes the following fields:
