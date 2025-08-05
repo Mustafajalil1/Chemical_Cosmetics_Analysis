@@ -1,5 +1,4 @@
-## Project
-this file contain the first project in python, using pandas library
+![picture](https://cdn.open-pr.com/L/a/La23573542_g.jpg)
 ## Analysis of chemical Hazards in Cosmetic Products Reported to the CSCP
 ---
 ## Project Overview
@@ -18,6 +17,7 @@ This project analyzes data from the California Safe Cosmetics Program (CSCP), wh
 - Lists the most frequently reported hazardous chemicals, showing which substances are most prevalent in cosmetic formulations.
 - Highlights companies associated with the highest number of hazardous ingredient reports, useful for regulatory and consumer awareness.
 - Determines which broader product categories have the highest presence of toxic ingredients.
+
   
 ## Dependencies: 
 This project uses the following Python libraries:
@@ -25,5 +25,4 @@ This project uses the following Python libraries:
 - matplotlib – for creating visualizations and plotting trends in the data
   
 ## Data Sources
-- https://data.chhs.ca.gov/dataset/596b5eed-31de-4fd8-a645-249f3f9b19c4/resource/57da6c9a-41a7-44b0-ab8d-815ff2cd5913/download/cscpopendata.csv
-- https://www.google.com/url?sa=D&q=https://safecosmetics.cdph.ca.gov/search/&ust=1754469360000000&usg=AOvVaw2nEL4ejd2YoRkM-65E981u&hl=en
+[Data Source](https://data.chhs.ca.gov/dataset/596b5eed-31de-4fd8-a645-249f3f9b19c4/resource/57da6c9a-41a7-44b0-ab8d-815ff2cd5913/download/cscpopendata.csv)
