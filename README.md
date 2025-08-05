@@ -7,10 +7,10 @@ This project analyzes data from the California Safe Cosmetics Program (CSCP), wh
 
 ## Information about the dataset
 ### The dataset includes the following fields:
-ChemicalName; Name of the hazardous or potentially hazardous chemical ingredient.
-InitialDateReported; The date when the chemical was first reported in any product.
-DiscontinuedDate: Indicates if/when the chemical was discontinued from use in the product.
-ChemicalDateRemoved; The date the chemical was removed from the public CSCP listing.
+- ChemicalName: Name of the hazardous or potentially hazardous chemical ingredient.
+- InitialDateReported: The date when the chemical was first reported in any product.
+- DiscontinuedDate: Indicates if/when the chemical was discontinued from use in the product.
+- ChemicalDateRemoved: The date the chemical was removed from the public CSCP listing.
 
 ## Summary and Key Findings 
 - Identifies the number of products discontinued annually, highlighting reformulation trends or regulatory impact.
