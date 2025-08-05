@@ -1,5 +1,5 @@
 ![picture](https://cdn.open-pr.com/L/a/La23573542_g.jpg)
-## Analysis of chemical Hazards in Cosmetic Products Reported to the CSCP
+## Behind the Gloss: Hidden Dangers in Cosmetics
 ---
 ## Project Overview
 This project analyzes data from the California Safe Cosmetics Program (CSCP), which monitors cosmetic products sold in California that contain ingredients known or suspected to cause cancer, birth defects, or other reproductive harm. The primary objective is to uncover patterns in chemical usage, identify the most frequently reported hazardous substances, evaluate reporting trends over time, and compare discontinued products with those still on the market.
