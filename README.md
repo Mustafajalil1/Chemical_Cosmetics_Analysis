@@ -2,7 +2,7 @@
 ## Behind the Gloss: Hidden Dangers in Cosmetics
 ---
 ## Project Overview
-This project analyzes data from the California Safe Cosmetics Program (CSCP), which monitors cosmetic products sold in California that contain ingredients known or suspected to cause cancer, birth defects, or other reproductive harm. The primary objective is to uncover patterns in chemical usage, identify the most frequently reported hazardous substances, evaluate reporting trends over time, and compare discontinued products with those still on the market.
+The California Safe Cosmetics Program (CSCP), which keeps a check on cosmetics sold in California that include chemicals known or suspected to cause cancer, birth defects, or further harm, provided the data used in this study. Analyzing trends in chemical use, identifying the most common hazardous components in cosmetics, assessing reporting patterns over time, and figuring out whether a product has been withdrawn are among the primary goals. Additionally, it aims to identify companies with the most products discontinued due to the presence of harmful chemicals.
 
 ## Information about the dataset
 ### The dataset includes the following fields:
