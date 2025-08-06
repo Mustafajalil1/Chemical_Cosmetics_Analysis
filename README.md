@@ -19,7 +19,7 @@ The California Safe Cosmetics Program (CSCP), which keeps a check on cosmetics s
 
 ## Summary and Key Findings 
 - Identifies the number of products discontinued annually, highlighting reformulation trends or regulatory impact.
-- Reveals which product subcategories are most represented in the dataset, indicating industry focus or consumer usage patterns.
+- Reveals which product subcategories are most represented in the dataset, indicating consumer usage patterns.
 - Lists the most frequently reported hazardous chemicals, showing which substances are most prevalent in cosmetic formulations.
 - Highlights companies associated with the highest number of hazardous ingredient reports, useful for regulatory and consumer awareness.
 - Determines which broader product categories have the highest presence of toxic ingredients.
@@ -32,3 +32,5 @@ This project uses the following Python libraries:
   
 ## Data Sources
 [Data Source](https://data.chhs.ca.gov/dataset/596b5eed-31de-4fd8-a645-249f3f9b19c4/resource/57da6c9a-41a7-44b0-ab8d-815ff2cd5913/download/cscpopendata.csv)
+[Data Source](https://www.kaggle.com/code/willianoliveiragibin/cosmetics/notebook)
+
