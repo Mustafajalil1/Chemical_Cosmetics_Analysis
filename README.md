@@ -6,10 +6,16 @@ This project analyzes data from the California Safe Cosmetics Program (CSCP), wh
 
 ## Information about the dataset
 ### The dataset includes the following fields:
+- CDPHID: ID of the cosmetics from California Department of Public Health.
+- ProductName: The name of the product that contain chemicals.
+- PrimaryCategory & Subcategory: Primary is the main category of the product(Hair,nails...) while the subcategory (hair conditioner, makeup remover….).
+- ChemicalCreatedAt & ChemicalUpdatedAt:
+- ChemicalCount: 
 - ChemicalName: Name of the hazardous or potentially hazardous chemical ingredient.
 - InitialDateReported: The date when the chemical was first reported in any product.
 - DiscontinuedDate: Indicates if/when the chemical was discontinued from use in the product.
-- ChemicalDateRemoved: The date the chemical was removed from the public CSCP listing.
+- new_column: This column contain both (ChemicalCreatedAt & ChemicalUpdatedAt), ChemicalCreatedAt is Timestamp of when the chemical record was created in the database, and the    ChemicalUpdatedAt is Timestamp of when the chemical information was last updated.
+- Active: This column represent the active and discontinued products in the market.
 
 ## Summary and Key Findings 
 - Identifies the number of products discontinued annually, highlighting reformulation trends or regulatory impact.
